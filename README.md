@@ -1,0 +1,2 @@
+# ramcoin
+Royal Algorithm Money
